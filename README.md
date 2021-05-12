@@ -1,6 +1,6 @@
 # [Kubeseal](//packagecontrol.io/packages/Kubeseal)
 
-This plugin will convert a Kubernetes Secret manifest to a Bitnami SealedSecret manifest.
+This plugin will convert a Kubernetes Secret manifest to a [Bitnami SealedSecret](https://github.com/bitnami-labs/sealed-secrets) manifest.
 
 There's a command palette entry called `Kubeseal: Seal this secret` to run it.
 
